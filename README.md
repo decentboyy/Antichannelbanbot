@@ -39,7 +39,7 @@ sudo npm i -g npm
 
 pip install poetry
 
-git clone https://github.com/BrayDanXD/AntiChannelBan # before cloning fork repo and fill All wars first
+git clone https://github.com/decentboyy/Antichannelbanbot # before cloning fork repo and fill All wars first
 
 cd AntiChannelBan
 
